@@ -1,0 +1,116 @@
+.vacation{
+    width:293px;
+    height:261px; 
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+
+.card{
+   max-width:293px;
+   height: 261px;
+   background-color:rgb(255, 255, 255);
+   border-radius:25px;
+   box-shadow: 0px 100px 80px rgba(153, 165, 236, 0.05), 0px 64.8148px 46.8519px rgba(153, 165, 236, 0.037963), 0px 38.5185px 25.4815px rgba(153, 165, 236, 0.0303704), 0px 20px 13px rgba(153, 165, 236, 0.025), 0px 8.14815px 6.51852px rgba(153, 165, 236, 0.0196296), 0px 1.85185px 3.14815px rgba(153, 165, 236, 0.012037);
+   font-family:Alef;
+}
+
+.up-card{
+    height: 190px;
+    position: relative;
+}
+
+.up-card div{
+    display: block;
+    height: 170.38px;
+    width:268.19px;
+    position:absolute;
+    left: 13px;
+    top: 12.62px;
+    border-radius: 20px;
+}
+
+.up-card img{
+    height: 170.38px;
+    border-radius: 20px;
+    object-fit: cover;
+    width:100%;
+}
+
+.edit-button{
+    background-color: #FF6647;
+    border-radius:50% ;
+    border: 2px solid white;
+    font-size:25px;
+    box-shadow: 0px 4.2069px 4.2069px rgba(255, 102, 71, 0.25);
+    color:white;
+    padding:7px;
+    position:absolute;
+    top:87%;
+    left:64%;
+}
+
+
+.delete-button{
+    background-color: #FF6647;
+    border-radius:50% ;
+    border: 2px solid white;
+    font-size:25px;
+    box-shadow: 0px 4.2069px 4.2069px rgba(255, 102, 71, 0.25);
+    color:white;
+    padding:7px;
+    position:absolute;
+    top:87%;
+    left:79%;
+}
+
+.edit-button ,
+.delete-button{
+    cursor:pointer;
+}
+
+.down-card{
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.down-card .down-up{
+    position:absolute;
+    top:5px;
+    left:14px;
+    font-weight: bold;
+    font-size: 15.7759px;
+    line-height: 127.7%;
+}
+
+.down-card .down-down{
+    display: flex;
+    justify-content:space-between;
+    padding-right: 12px;
+    padding-left: 12px;
+
+}
+
+.down-card .down-down div{
+    margin-top: 34px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 127.7%;
+    color:cadetblue ;
+}
+
+.down-card .place-icon{
+    color: #FF6647;
+}
+
+.down-card .place div{
+    color:#a9a9a9 ;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 127.7%;
+    margin-top: 34px;
+}; 
+
+

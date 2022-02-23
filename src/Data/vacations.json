@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "name": "Baros Dream",
+        "location":"Maldives",
+        "price":1000,
+        "imageUrl":"https://talepost.com/wp-content/uploads/2021/12/Baros-1024x671.jpg"
+    },
+    {
+        "id":2,
+        "name": "Studio City LA",
+        "location":"Los Angeles ,USA",
+        "price":2000,
+        "imageUrl":"https://cdn.getyourguide.com/img/location/5be807854b9af.jpeg/92.jpg"
+    },
+    {
+        "id":3,
+        "name": "New York Dream",
+        "location":"USA",
+        "price":3000,
+        "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/4/47/New_york_times_square-terabass.jpg"
+    },
+    {
+        "id":4,
+        "name": "Paris Dream",
+        "location":"France",
+        "price":4000,
+        "imageUrl":"https://static.saltinourhair.com/wp-content/uploads/2018/07/23151938/paris-city-trip-guide-header.jpg"
+    },
+    {
+        "id":5,
+        "name": "Laguna Bacalar-amazing vacation",
+        "location":"Mexico",
+        "price":5000,
+        "imageUrl":"http://res.cloudinary.com/simpleview/image/upload/v1571764428/clients/quintanaroo/bacalar_2_e0ba2b03-7462-4cbf-8d27-ef8243664867.jpg"
+    },
+    {
+        "id":6,
+        "name": "Fuji",
+        "location":"Japan",
+        "price":6000,
+        "imageUrl":"https://www.state.gov/wp-content/uploads/2019/04/Japan-2107x1406.jpg"
+    },
+    {
+        "id":7,
+        "name": "Ko phi phi",
+        "location":"Thailand",
+        "price":6000,
+        "imageUrl":"https://gecexchanges.com/wp-content/uploads/teach-english-in-thailand-banner.jpg"
+    },
+    {
+        "id":8,
+        "name": "Amsterdam amazing travel",
+        "location":"Holand",
+        "price":6000,
+        "imageUrl":"https://www.meininger-hotels.com/fileadmin/images/meininger-hotels-in-amsterdam-zentrum-6d28120.jpg"
+    }
+]

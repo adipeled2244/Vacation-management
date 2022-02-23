@@ -1,0 +1,7 @@
+.app{
+    display:flex;
+    background-color: #E5E5E5;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+}
+
